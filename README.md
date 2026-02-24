@@ -1,10 +1,3 @@
-# Faizal Refendi
-
-### Biography
-
-I'm an IT enthusiast majoring in Game Technology, love outdoor activity & get involved in charity or voluntary work.  
-In the past recent years, I developed my interest in CI/CD, DevOps and Automation, besides gardening during my free time.  
-
 ### About Me
 
 I work as a developer and devops engineer, but my true escape is fishing and challenging outdoor activities.  
