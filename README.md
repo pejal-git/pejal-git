@@ -1,16 +1,20 @@
-## Hi there 👋
+# Faizal Refendi
 
-<!--
-**pejal-git/pejal-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Biography
 
-Here are some ideas to get you started:
+I'm an IT enthusiast majoring in Game Technology, love outdoor activity & get involved in charity or voluntary work.  
+In the past recent years, I developed my interest in CI/CD, DevOps and Automation, besides gardening during my free time.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I work as a developer and devops engineer, but my true escape is fishing and challenging outdoor activities.  
+Balancing between code writing with the thrill of survival keeps life interesting!  
+Professionally, I'm passionate about technology and creating meaningful digital experiences.   
+My passion is my drive and I'm very persistent when achieving my purpose!  
+Personally, I value connections, growth, and making a positive impact.  
+
+### Career Objective
+Seeking a challenging career with a progressive organization that provides an opportunity to capitalize my technical skills & abilities in the field of information technology (IT) & game development.
+
+### Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=ae,arduino,bash,blender,cs,cloudflare,cmake,css,debian,discord,bots,docker,emacs,firebase,gamemakerstudio,gcp,git,github,githubactions,gitlab,gmail,go,gradle,godot,html,ai,instagram,java,js,jenkins,jquery,kali,kotlin,linkedin,md,matlab,maven,mint,mysql,neovim,nextjs,nginx,nodejs,perl,ps,php,postgres,powershell,pr,py,qt,raspberrypi,react,redis,redux,ruby,sqlite,stackoverflow,sublime,ubuntu,unity,unreal,vim,visualstudio,vscode,windows)
