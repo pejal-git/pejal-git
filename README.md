@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This is a draft of profile update and not yet finalized.
+
 ## About Me
 
 I work as a developer and devops engineer, but my true escape is fishing and challenging outdoor activities.  
@@ -8,6 +11,17 @@ Personally, I value connections, growth, and making a positive impact.
 
 ### Career Objective
 Seeking a challenging career with a progressive organization that provides an opportunity to capitalize my technical skills & abilities in the field of information technology (IT) & game development.
+
+---
+
+### Projects
+
+**Unity Version Manager**  
+Handles Unity Game Engine versions via Jenkins pipeline, allowing developers to input which unity version to install, uninstall or force reinstall. Features automated unity cli version updater, input validation, scan installed versions, compute plans and reporting.
+
+**Jenkins HTTPS auto renewal**
+<placeholder>
+
 
 ---
 
